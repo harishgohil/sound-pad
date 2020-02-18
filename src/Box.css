@@ -1,0 +1,36 @@
+.App {
+    width: 800px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -30px;
+    background-image: url("./music.jpg");
+}
+
+
+.box {
+    width: 160px;
+    height: 110px;
+    background-color: rgb(7, 36, 44);
+    border-radius: 6px;
+    margin: 3px;
+    font-family: 'Sriracha', cursive;
+    font-size: x-large;
+    color: white
+}
+
+.box:hover {
+    background-color: rgb(1, 5, 14);
+    transition-duration: 0.5s;
+    box-sizing: inherit;
+
+}
+
+.Text {
+    font-family: 'Sriracha', cursive;
+    font-size: 50px;
+    color: white;
+    padding-top: 20px;
+
+}
